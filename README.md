@@ -1,4 +1,4 @@
-# Customer Churn Prediction using Random Forest
+# Customer Churn Prediction using ML
 
 ## Overview
 This project focuses on predicting customer churn using a machine learning model trained on a dataset of approximately 7000 customers. The best-performing model, a Random Forest classifier with cross-validation accuracy of 0.84, was selected for deployment.
