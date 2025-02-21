@@ -54,3 +54,7 @@ After evaluation, Random Forest was chosen as the final model due to its superio
 ## Conclusion
 This project successfully predicts customer churn with a high accuracy using the Random Forest algorithm. Future improvements could include hyperparameter tuning and feature engineering for even better results.
 
+
+## Author
+
+**Name**: Rudranarayan Sahu
