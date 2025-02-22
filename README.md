@@ -55,6 +55,19 @@ After evaluation, Random Forest was chosen as the final model due to its superio
 This project successfully predicts customer churn with a high accuracy using the Random Forest algorithm. Future improvements could include hyperparameter tuning and feature engineering for even better results.
 
 
-## Author
+## Contributors
+- **Name** - Rudranarayan Sahu
+- **Website** - https://akash0101.pythonanywhere.com
+- **Mail** - rudranarayansahu.tech@gmail.com
 
-**Name**: Rudranarayan Sahu
+---
+
+## License
+This project is licensed under the **MIT License**.
+
+Feel free to connect ✨✨
+
+---
+
+## Contact
+For any queries or contributions, contact **rudranarayansahu.tech@gmail.com** or visit **[GitHub](https://github.com/rudranarayan-01)**.
